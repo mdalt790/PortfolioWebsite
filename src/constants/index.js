@@ -9,14 +9,15 @@ export const ABOUT_TEXT = ``;
 
 export const EXPERIENCES = [
   {
-    year: "2024 - 2024",
+    year: "June 2024 - Aug 2024",
     role: "COE Procurement Intern",
     company: "Alkermes",
     description: `Identified and resolved data visualization issue within procurement software, leading to the accurate recategorization of over $150 million in spending data.`,
     technologies: ["Power Query", "Excel", "Simfoni Dashboards"],
   },
   {
-    year: "Undergraduate Researcher",
+    year: "January 2024 - December 2025",
+    Role: "Undergraduate Researcher",
     company: "UMass Boston AI lab",
     description: `Developed a virtual reality study with built in data collection for over 30+ participants. Earned IRB approval, $1000 in grants, and a pending application to The Symposium on Applied Perception.`,
     technologies: ["Unity","C#","R"],
