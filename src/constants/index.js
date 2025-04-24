@@ -17,7 +17,7 @@ export const EXPERIENCES = [
   },
   {
     year: "January 2024 - December 2025",
-    Role: "Undergraduate Researcher",
+    role: "Undergraduate Researcher",
     company: "UMass Boston AI lab",
     description: `Developed a virtual reality study with built in data collection for over 30+ participants. Earned IRB approval, $1000 in grants, and a pending application to The Symposium on Applied Perception.`,
     technologies: ["Unity","C#","R"],
